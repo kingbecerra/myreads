@@ -39,6 +39,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Customization
 A rating system has been added to this project. The ratings are provided by the backend server.
 
+## Customization
+A rating system has been added to this project. The ratings are provided by the backend server.
+
+# Cloned in the following computers
+MyReads has been cloned in the following PCs:
+
+| PC            | DATE           | PATH                                                                                         |
+| ------------- | -------------- | -------------------------------------------------------------------------------------------- |
+| MiniMAC       | Apr 19, 2018   | Documents/DevelopmentMiniMac/React/myreads                                                   |
+| Surface Pro 4 | 2017           |                                                                                              |
+
+
 ## Acknowledgments
 
 * Udacity React Nanodegree program
